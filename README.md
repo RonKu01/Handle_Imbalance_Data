@@ -19,7 +19,7 @@
 5) RUS_KFOLD_SVC.ipynb
 6) CC_KFOLD_SVC.ipynb
 
-# weather-dataset
+# Weather-Dataset
 Original data
 The original dataset can be found here: https://data.mendeley.com/datasets/4drtyfjtfy/1
 
