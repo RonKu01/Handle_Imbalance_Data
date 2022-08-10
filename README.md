@@ -1,5 +1,6 @@
 # How to load data
 1) Clone the repository
+2) Get all db File at: https://drive.google.com/drive/folders/1-Bakbt1y8qoEm_gpImK6bVNkrKijN7FJ?usp=sharing
 2) Launch Jupyter Notebook
 3) Load all the db file by run the code shown below
 
