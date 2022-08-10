@@ -2,9 +2,14 @@
 1) Clone the repository
 2) Launch Jupyter Notebook
 3) Load all the db file by run the code shown below
+
 ![App Screenshot](https://github.com/RonKu01/Data_Science_Project_Handle_Imbalance_Data/blob/main/photo1.jpg)
+
+
 4) That's it, you can perform prediction by typing the code shown below 
+
 ![App Screenshot](https://github.com/RonKu01/Data_Science_Project_Handle_Imbalance_Data/blob/main/photo2.jpg)
+
 
 # File Included:
 1) Resize Photo & Save Into pkl File : https://colab.research.google.com/drive/1ZKI4GuHUc-_X-DVYpJPrm3LC16PxO9qO?usp=sharing
