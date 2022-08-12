@@ -1,3 +1,12 @@
+# Research Question
+Will the model achieve an accuracy of 90% and loss function of less than 30% when identifying shine weather even when performing different sampling methods towards shine weather images? 
+
+# Null Hyphothesis 
+The model will get an accuracy of 90% and a loss function of less than 30% even when performing different sampling methods toward shine weather images. 
+
+# Alternative Hypothesis
+The model will not get an accuracy of 90% and a loss function of less than 30% even when performing different sampling methods toward shine weather images.
+
 # How to load data
 1) Clone the repository
 2) Get all db File at: https://drive.google.com/drive/folders/1-Bakbt1y8qoEm_gpImK6bVNkrKijN7FJ?usp=sharing
